@@ -10,4 +10,5 @@
 #### View Certificate Detailes
 `openssl x509 -in ca-cert.pem -noout -text`
 
-## 
+## Verify Signatures
+`python ver.py`
